@@ -1,4 +1,4 @@
-﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.lolaloka" version="1.0.0">
+﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.acheloja" version="1.0.0">
   <name>AcheLoja</name>
   <description>Os produtos das melhores Lojas perto de você.</description>
   <author href="" email="renanrecio@gmail.com">Renan Recio</author>
